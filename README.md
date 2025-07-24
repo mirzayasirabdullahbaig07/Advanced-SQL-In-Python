@@ -36,6 +36,15 @@ This project is designed to help you master advanced SQL concepts using Python t
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Advanced-SQL-In-Python.git
+   git clone https://github.com/mirzayasirabdullahbaig07/Advanced-SQL-In-Python.git
    cd Advanced-SQL-In-Python
 
+---
+
+## 🔗 Connect With Me
+
+- **GitHub**: [mirzayasirabdullahbaig07](https://github.com/mirzayasirabdullahbaig07)
+- **Linktree**: [linktr.ee/mirzayasirabdullahbaig](https://linktr.ee/mirzayasirabdullahbaig)
+- **LinkedIn**: [linkedin.com/in/mirza-yasir-abdullah-baig](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)
+
+---
