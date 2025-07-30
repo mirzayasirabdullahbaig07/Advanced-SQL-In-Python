@@ -1,1 +1,39 @@
-@
+# ----------------------------------------
+# DATA INTEGRITY IN DATABASE SYSTEMS
+# ----------------------------------------
+
+# Data integrity refers to the accuracy, completeness, and consistency of the data stored in a database.
+# It is a measure of the reliability and trustworthiness of the data.
+# Ensuring data integrity means protecting the data from:
+# - Errors
+# - Corruptions
+# - Unauthorized modifications
+
+# Methods to Ensure Data Integrity:
+
+# 1. Constraints:
+#    Constraints are rules or conditions applied to table columns that restrict the type of data
+#    that can be stored. They enforce integrity by ensuring valid data entry.
+#    Examples:
+#    - PRIMARY KEY
+#    - FOREIGN KEY
+#    - UNIQUE
+#    - NOT NULL
+#    - CHECK
+
+# 2. Transactions:
+#    A transaction is a sequence of one or more SQL operations executed as a single unit.
+#    It ensures data integrity using the ACID properties:
+#    - Atomicity
+#    - Consistency
+#    - Isolation
+#    - Durability
+
+# 3. Normalization:
+#    Normalization is a database design technique that reduces data redundancy and improves consistency.
+#    It organizes data into multiple related tables and defines relationships between them.
+#    Normal forms (1NF, 2NF, 3NF, etc.) help structure the data correctly.
+
+# Summary:
+# Data integrity is critical for reliable, accurate, and secure database systems.
+# Using constraints, transactions, and normalization are best practices to maintain high data quality.
