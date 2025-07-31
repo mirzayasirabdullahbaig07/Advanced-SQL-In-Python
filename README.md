@@ -1,7 +1,7 @@
 # 📊 Advanced SQL in Python
 
 Welcome to the **Advanced-SQL-In-Python** repository!  
-This project is designed to help you master advanced SQL concepts using Python tools and libraries such as `sqlite3`, `SQLAlchemy`, `Pandas`, and `Jupyter Notebooks`. It’s ideal for aspiring Data Analysts, Data Engineers, and Machine Learning Engineers who want to blend the power of SQL with Python for real-world data analysis. Here We will cover all the concepts in deep.
+This project is designed to help you master advanced SQL concepts using Python tools and libraries such as `sqlite3`, `SQLAlchemy`, `Pandas`, and `Jupyter Notebooks`. It’s ideal for aspiring Data Analysts, Data Engineers, and Machine Learning Engineers who want to blend the power of SQL with Python for real-world data analysis. Here We will cover all the concepts in deep. Follow All the files and become an SQL Expert
 
 ---
 
