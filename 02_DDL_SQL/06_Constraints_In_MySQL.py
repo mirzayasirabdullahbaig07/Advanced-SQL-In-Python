@@ -52,6 +52,3 @@
 # - SET DEFAULT:
 #   Sets the foreign key column to its DEFAULT value upon deletion/update of the referenced row.
 
-# Summary:
-# Constraints are vital for maintaining data integrity and ensuring that only valid, consistent,
-# and meaningful data is stored in the database.
